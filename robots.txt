@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://bumatetagaho.pages.dev/sitemap.xml
